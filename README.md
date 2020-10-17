@@ -1,3 +1,4 @@
+# Code Search Engine Project for the Information Retrieval couse at KTH Royal Institute of Technology 
 # DD2476-Project
 **Project: GitHub search**
 Contact: Johan Boye, jboye@kth.se
